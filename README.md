@@ -4,7 +4,8 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
 # It is not recommended to have the EFB save the plane state as this can cause issues with 1 plane being in a different state then the  other. PLease ensure this is unchecked if flying with YC's 
 
 Known Issues:
-  - Starter switch (1 & 2) - may not stay left or right long enough. the copilot may have to move the switch at the same time as the pilot to get the engines to start correctly.  
+  - Starter switch (1 & 2) - may not stay left or right long enough. the copilot may have to move the switch at the same time as the pilot to get the engines to start correctly.
+  - I had to remove the COURSE 1 and Course 2 synch due to it getting out of synch so quickly. You and your copilot will have to set CRS 1 and 2 individually
 
 
 *** Please kindly note that this plane from MSFS has numerous unselectable switches. This is a MSFS model/featureset issue, not a YC's or the Profile I created issue.
