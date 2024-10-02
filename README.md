@@ -11,7 +11,6 @@ Known Issues:
 
 FIXED: 
    # 9/2/2024
-    # - Added Rolling Numbers for PED_COM1 & 2
     # - Added Rolling Numbers for PED_COM1 & 2, RAD-ALT 1 & 2HF-FEQ, ATC_TRANSP & MCP_NAV 1 & 2 
     # - Added PFD_CDI_Source for VLOC
    # 8/26/2024
