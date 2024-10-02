@@ -13,6 +13,7 @@ FIXED:
    # 9/2/2024
     # - Added Rolling Numbers for PED_COM1 & 2, RAD-ALT 1 & 2HF-FEQ, ATC_TRANSP & MCP_NAV 1 & 2 
     # - Added PFD_CDI_Source for VLOC
+    # - Removed Sync on CRS 1 and CRS 2 due to sync issues
    # 8/26/2024
     # - Added Rolling Numbers to HSI 1 & 2 for VOR CRS synch
     # - Added YC's definition for Transponder to help with synch on FREQ changes
