@@ -1,6 +1,6 @@
 # YourControls_JUST_FLIGHT_F28_PROFESSIONAL
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
-
+# Made for MSFS2020 and not validated for 2024
 # It is not recommended to have the EFB save the plane state as this can cause issues with 1 plane being in a different state then the  other. PLease ensure this is unchecked if flying with YC's 
 
 Known Issues:
